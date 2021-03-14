@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_prediction"
+        android:title="Prediction"
+        android:icon="@drawable/ic_view_week"/>
+
+    <item
+        android:id="@+id/menu_peak_value"
+        android:title="Peak Value"
+        android:icon="@drawable/ic_poll_black_24dp"/>
+
+    <item
+        android:id="@+id/menu_info"
+        android:title="Info"
+        android:icon="@drawable/ic_info"/>
+
+
+</menu>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_intervention"
+        android:title="Add Intervention"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_custom_data"
+        android:title="Custom Data"
+        android:icon="@drawable/ic_settings_backup_restore"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_reset"
+        android:title="Reset"
+        android:icon="@drawable/ic_reset"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_about_us"
+        android:title="About us"
+        android:icon="@drawable/ic_person_outline"
+        app:showAsAction="always"/>
+
+
+</menu>

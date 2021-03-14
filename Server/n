@@ -1,0 +1,4 @@
+● snapd.service - Snap Daemon
+     Loaded: loaded (/lib/systemd/system/snapd.service; disabled; vendor preset: disabled)
+     Active: inactive (dead)
+TriggeredBy: ● snapd.socket
